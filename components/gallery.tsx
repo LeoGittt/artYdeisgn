@@ -6,7 +6,7 @@ import { ArrowLeft, ArrowRight, X, Maximize, ChevronRight } from "lucide-react";
 const galleryItems = [
   {
     id: 1,
-    image: "/lineaorg.jpg",
+    image: "/showcase-1.jpg",
     title: "Colección Orgánica",
     description: "Líneas fluidas inspiradas en formas naturales",
     category: "Living",
