@@ -26,7 +26,7 @@ const productLines: ProductLine[] = [
     title: "Línea Piccolo",
     description:
       "Mobiliario infantil diseñado con amor para los más pequeños del hogar.",
-    image: "/capturaa.jpg",
+    image: "/capturaaa.jpg",
     details: [
       "Diseño ergonómico para niños",
       "Bordes redondeados y seguros",
